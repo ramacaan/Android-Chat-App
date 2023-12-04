@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679782168282",
+    "project_id": "ramchat-4b439",
+    "storage_bucket": "ramchat-4b439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679782168282:android:2b038e19cdf4f24dfad7e3",
+        "android_client_info": {
+          "package_name": "com.ramazan.ramchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679782168282-kbsfdc4n70rg5qefcpavsd29kg3hdsha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtgD4-XA_I_sjJOaZ7xL4LJU3rAquWuZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679782168282-kbsfdc4n70rg5qefcpavsd29kg3hdsha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
